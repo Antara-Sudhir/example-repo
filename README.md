@@ -1,2 +1,3 @@
 # example-repo
-Learning how to use GitHub and VS Code
+Learning how to use GitHub and VS Code!
+
